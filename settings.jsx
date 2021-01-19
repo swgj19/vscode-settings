@@ -26,6 +26,8 @@
   },
   "editor.fontWeight": 300,
   "[json]": {
+  
+
 
 
     "editor.quickSuggestions": {
@@ -69,8 +71,9 @@
       "<C-x>": false,
       // Paste
       "<C-v>": false,
-    },
+},
+    "editor.tabSize": 6,
+    "css.completion.completePropertyWithSemicolon": false,
 
 
 
-}
