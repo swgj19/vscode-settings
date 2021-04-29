@@ -46,6 +46,7 @@
 	},
 
 	// Editor Settings
+	"window.zoomLevel": 0.8,
 	"editor.tabSize": 6,
 	"css.completion.completePropertyWithSemicolon": false,
 	"editor.formatOnSave": true,
@@ -102,4 +103,5 @@
 	"scss.completion.completePropertyWithSemicolon": false,
 	"less.completion.completePropertyWithSemicolon": false,
 	"editor.acceptSuggestionOnEnter": "off"
+	"window.zoomLevel": 0.8
 }
