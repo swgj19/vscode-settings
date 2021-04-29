@@ -103,5 +103,4 @@
 	"scss.completion.completePropertyWithSemicolon": false,
 	"less.completion.completePropertyWithSemicolon": false,
 	"editor.acceptSuggestionOnEnter": "off"
-	"window.zoomLevel": 0.8
 }
