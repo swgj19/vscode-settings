@@ -46,19 +46,22 @@
 	},
 
 	// Editor Settings
-	"window.zoomLevel": 0.8,
+	"window.zoomLevel": 0.5,
 	"editor.tabSize": 6,
 	"css.completion.completePropertyWithSemicolon": false,
 	"editor.formatOnSave": true,
 	"editor.wordWrap": "on",
+	"editor.wordWrapColumn": 80,
+	"editor.acceptSuggestionOnEnter": "off",
 	"editor.fontFamily": "DejaVu Sans Condensed",
 	"editor.fontLigatures": true,
 	"editor.fontSize": 15,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"[javascript]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"[html]": {
-		"editor.defaultFormatter": "esbenp.prettier-vscode"
+		"editor.defaultFormatter": "vscode.html-language-features"
 	},
 	"[jsonc]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -101,6 +104,6 @@
 	"terminal.integrated.fontFamily": "Consolas",
 	"terminal.integrated.fontSize": 14,
 	"scss.completion.completePropertyWithSemicolon": false,
-	"less.completion.completePropertyWithSemicolon": false,
-	"editor.acceptSuggestionOnEnter": "off"
+	"less.completion.completePropertyWithSemicolon": false
 }
+
